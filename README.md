@@ -1,16 +1,20 @@
-### Hi there 👋
-
-<!--
-**WhoNoah/WhoNoah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```css
+C:\Users\Noah>LVXI
+################   ################      Noah@info
+################   ################      ──────────
+################   ################      👤 User: Noah
+################   ################      🔞 Age: 14
+################   ################      🌍 Country: France
+################   ################      🧷 [Site](https://whonoah.github.io/puld.github.io/)
+################   ################      🔗 Discord: puld#7132
+################   ################      
+                                         
+################   ################      Noah@stats
+################   ################      ──────────
+################   ################      ⭐ Luau 8/10
+################   ################      🐍 Html -7/10
+################   ################      🧠 Brain 0/10
+################   ################      💸 Css 6/10
+################   ################
+```
+[![Discord Presence](https://lanyard.cnrad.dev/api/1038848653164552322)](https://whonoah.github.io/puld.github.io/)
